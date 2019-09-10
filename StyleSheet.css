@@ -1,11 +1,15 @@
+h1 {
+  font-family: fantasy;
+}
+
 body {
   background-color: lightblue;
+  font-family: sans-serif;
 }
 
 p {
   font-family: verdana;
   font-size: 20px;
-  background-color: Tomato;
 }
 
 ul.a {
@@ -16,14 +20,26 @@ ul.b {
   list-style-type: square;
 }
 
+ul.c {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+}
+
 img {
   width: 100%;
   height: auto;
 }
 
 #footer {
-  background-color: #F1F1F1;
   text-align: center;
   style:"margin-bottom:0";
-  font-size: 30px;
+  font-size: 20px;
+  font-family: sans-serif;
+}
+
+#outdoors {
+  font-style: italic;
+  font-family:sans-serif;
+  background-color: gray;
 }
