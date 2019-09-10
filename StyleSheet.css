@@ -2,7 +2,7 @@ body {
   background-color: lightblue;
 }
 
-.header {
+header {
   background-color: #F1F1F1;
   text-align: center;
   padding: 20px;
@@ -20,4 +20,9 @@ ul.a {
 
 ul.b {
   list-style-type: square;
+}
+
+img {
+  width: 100%;
+  height: auto;
 }
