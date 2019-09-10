@@ -2,7 +2,22 @@ body {
   background-color: lightblue;
 }
 
-h1 {
-  color: navy;
-  margin-left: 20px;
+.header {
+  background-color: #F1F1F1;
+  text-align: center;
+  padding: 20px;
+}
+
+p {
+  font-family: verdana;
+  font-size: 20px;
+  background-color: Tomato;
+}
+
+ul.a {
+  list-style-type: circle;
+}
+
+ul.b {
+  list-style-type: square;
 }
