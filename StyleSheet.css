@@ -2,12 +2,6 @@ body {
   background-color: lightblue;
 }
 
-#myHeader {
-  background-color: #F1F1F1;
-  text-align: center;
-  padding: 20px;
-}
-
 p {
   font-family: verdana;
   font-size: 20px;
@@ -25,4 +19,11 @@ ul.b {
 img {
   width: 100%;
   height: auto;
+}
+
+#footer {
+  background-color: #F1F1F1;
+  text-align: center;
+  style:"margin-bottom:0";
+  font-size: 30px;
 }
