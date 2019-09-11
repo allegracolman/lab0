@@ -2,6 +2,12 @@ h1 {
   font-family: fantasy;
 }
 
+h6 {
+  font-style: italic;
+  font-family: cursive;
+  style='margin-bottom: 40px;
+}
+
 body {
   background-color: lightblue;
   font-family: sans-serif;
@@ -26,11 +32,6 @@ ul.c {
   padding: 0;
 }
 
-img {
-  width: 100%;
-  height: auto;
-}
-
 #footer {
   text-align: center;
   style:"margin-bottom:0";
@@ -41,5 +42,5 @@ img {
 #outdoors {
   font-style: italic;
   font-family:sans-serif;
-  background-color: gray;
+  background-color: lightgray;
 }
