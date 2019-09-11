@@ -18,10 +18,6 @@ p {
   font-size: 20px;
 }
 
-ul.a {
-  list-style-type: circle;
-}
-
 ul.b {
   list-style-type: square;
 }
